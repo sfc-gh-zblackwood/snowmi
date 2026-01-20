@@ -1,0 +1,2 @@
+{"level":"ERROR","message":"[4:14:44.545 PM]: Connection[id: 218e854b-cb5a-4f91-9c6b-905aafb3e5ab] - connecting failed after 0.04 milliseconds.Error: External browser and Okta are not compatible with connection process"}
+{"level":"ERROR","message":"[4:15:52.945 PM]: Connection[id: 45b612b1-c95f-400d-8fe3-1845e72dc4ed] - connecting failed after 0.04 milliseconds.Error: External browser and Okta are not compatible with connection process"}
